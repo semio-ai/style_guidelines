@@ -2,7 +2,7 @@
 
 # Definitions and Conventions
 
-This document follows [RFC2119](https://tools.ietf.org/html/rfc2119) for requirement specification.
+This document follows [RFC2119](https://tools.ietf.org/html/rfc2119) for requirement specification, including definitions for MUST (NOT), SHOULD (NOT), and MAY.
 
 # API-level Guidelines
 
