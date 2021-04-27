@@ -32,7 +32,7 @@ Program complexity is directly related to the amount of mutable state.
 
 ## Type Names
 
-Classes, structs, and typedefs **MUST** be `UpperCamelCase`.
+Classes, structs, and typedefs **MUST** be `UpperCamelCase`. Initialisms and acronyms do not override this rule (e.g. `Pdf`, not `PDF`). The keywords `public`, `protected`, and `private` **SHOULD NOT** be indented. As a result of the composition over inheritance rules above, `protected` **SHOULD NOT** be used in almost all circumstances.
 
 ```.cpp
 class MyGreatClass
